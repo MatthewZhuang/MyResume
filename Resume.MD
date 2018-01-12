@@ -1,15 +1,15 @@
 
 # 联系方式
 
-- 手机：13071860615
+- 手机：130XXXX0615
 - Email：heimixiaozhuang@zju.edu.cn
-- QQ/微信号：13071860615
+- QQ/微信号：130XXXX0615
 - 地址：浙江省杭州市西湖区浙大路38号
 
 
 # 个人信息
 
- - 庄郭冕/男/1992 
+ - XXX/男/1992 
  - 硕士/浙江大学计算机技术
  - 本科/东北大学软件工程 
  - 工作年限：3年
@@ -18,6 +18,9 @@
  - 期望职位：算法工程师，NLP方向
  - 期望城市：杭州
 
+# 研究方向
+
+ - 文本挖掘， 自然语言处理、 机器学习、 深度学习、 金融数据分析
 
 # 实习经历
 
@@ -41,18 +44,13 @@ ETL：包括文章去重，文章自动标签和文本质量控制功能；自�
   
 # 开源项目和作品
 ## 开源项目
-LDA_StandardGibbs  Python实现：
-LDA_SparseGibbs  Python实现：
+LDA_StandardGibbs  Python实现：https://github.com/MatthewZhuang/MyLDA
+LDA_SparseGibbs  Python实现：https://github.com/MatthewZhuang/MyLDA
 
 
-## 技术文章
+## 论文及专利
+《 一种基于主题模型的新闻热点检测方法》
 
-
-    
----      
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
-      
 # 技能清单
 以下均为我熟练使用的技能
 
@@ -60,3 +58,9 @@ LDA_SparseGibbs  Python实现：
 - 语言：Python/Java/R
 - 数据库相关：MySQL/Redis/MongoDB
 - 版本管理、文档和自动化部署工具：Svn/Git/Coding
+
+
+---      
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+      
