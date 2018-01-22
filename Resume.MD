@@ -46,7 +46,9 @@ ETL：包括文章去重，文章自动标签和文本质量控制功能；自�
 ## 开源项目
 - LDA_StandardGibbs  Python实现：https://github.com/MatthewZhuang/MyLDA
 - LDA_SparseGibbs  Python实现：https://github.com/MatthewZhuang/MyLDA
-
+- SalesPrediction  R实现：https://hengtian.shinyapps.io/SalesPOC/
+- NER-Finance      Python实现：https://github.com/MatthewZhuang/NER-FinanceConcept
+- 基于Stacking的底背离判别模型（量化交易策略） Python实现：https://github.com/MatthewZhuang/DiBeiLi
 
 ## 论文及专利
 《 一种基于主题模型的新闻热点检测方法》
