@@ -46,6 +46,9 @@ ETL：包括文章去重，文章自动标签和文本质量控制功能；自�
 ## 开源项目
 - LDA_StandardGibbs  Python实现：https://github.com/MatthewZhuang/MyLDA
 - LDA_SparseGibbs  Python实现：https://github.com/MatthewZhuang/MyLDA
+- LDA_batch_VB  Python实现：ing
+- LDA_Online_VB  Python实现：ing
+- LDA_parallelized  Python实现：ing
 - SalesPrediction  R实现：https://hengtian.shinyapps.io/SalesPOC/
 - NER-Finance      Python实现：https://github.com/MatthewZhuang/NER-FinanceConcept
 - 基于Stacking的底背离判别模型（量化交易策略） Python实现：https://github.com/MatthewZhuang/DiBeiLi
